@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs)
 <!-- default file list end -->
 # OBSOLETE - How to update an ASPxGridView DataSource if the initial values are set programmatically in the HtmlRowCreated event
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e457)**
+<!-- run online end -->
 
 
 <p><strong>UPDATED:<br></strong>This example is now obsolete. Use the approach shown in the <a href="https://documentation.devexpress.com/AspNet/DevExpress.Web.GridViewTemplates.EditForm.property">GridViewTemplates.EditForm</a> topic to pass the values from the template:</p>
